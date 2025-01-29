@@ -37,10 +37,11 @@
     list-style: none;
     font-family: "Montserrat-SemiBold";
 }
-.ul__menu a{
-    text-decoration: none;
+.ul__menu li a{
     color: var(--font-color-1);
+    text-decoration: none;
 }
+
 /********** main ******************/
 .main {
     /* background: red; */
@@ -92,6 +93,14 @@
 
 .section__icon img{
     /* background: violet; */
+}
+
+.section__work{
+    background: #071917;
+    /* display: flex; 
+    align-items: center;*/
+    justify-content: space-evenly;
+    padding: 20px; 
 }
 
 

@@ -4,11 +4,27 @@
     --color-gradient-2: #071917;
     --banner-1: url(../storage/img/banner.png);
 }
-@font-face {
-    font-family: "Montserrat-SemiBold";
+@font-face{
+    font-family: "Montserrat-SemiBold.ttf";
     src: url(../storage/font/Montserrat/static/Montserrat-SemiBold.ttf);
 }
-@font-face {
-    font-family: "Montserrat-Medium";
+
+@font-face{
+    font-family: "Montserrat-Medium.ttf";
     src: url(../storage/font/Montserrat/static/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat-Regular.ttf";
+    src: url(../storage/font/Montserrat/static/Montserrat-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat-Light.ttf";
+    src: url(../storage/font/Montserrat/static/Montserrat-Light.ttf);
+}
+
+@font-face{
+    font-family: "Montserrat-Bold.ttf";
+    src: url(../storage/font/Montserrat/static/Montserrat-Bold.ttf);
 }

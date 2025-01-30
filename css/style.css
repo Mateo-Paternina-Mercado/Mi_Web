@@ -35,7 +35,7 @@
 }
 .ul__menu li{
     list-style: none;
-    font-family: "Montserrat-SemiBold";
+    font-family: "Montserrat-SemiBold.ttf";
 }
 .ul__menu li a{
     color: var(--font-color-1);
@@ -71,17 +71,17 @@
 }
 .article__home span{
     font-size: 28px;
-    font-family: "Montserrat-SemiBold";
+    font-family:"Montserrat-SemiBold.ttf";
 }
 .article__home h1{
-    font-size: 75px;
-    font-family: "Montserrat-SemiBold";
+    font-size:75px;
+    font-family: "Montserrat-SemiBold.ttf";
 
 }
 .article__home p{
     /* background: red; */
     width: 340px;
-    font-family: "Montserrat-Medium";
+    font-family:"Montserrat-Medium,ttf";
 }
 /************* section menu **********************/
 

@@ -97,8 +97,8 @@
 
 .section__work{
     background: #071917;
-    /* display: flex; 
-    align-items: center;*/
+    /* display: flex;  */
+    /* align-items: center; */
     justify-content: space-evenly;
     padding: 20px; 
 }
